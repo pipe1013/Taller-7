@@ -34,7 +34,7 @@
 <body>
 <!--login form-->
 <main class="form-signin w-100 m-auto">
-    <form action="registerUser" method="post">
+    <form action="registerCategory" method="post">
         <img class="mb-4" src="img/icono.png" alt="MY APP" width=100>
         <h4 class="text-secondary">MY -APP</h4>
         <h1 class="h5 mb-3 fw-normal">Categoría</h1>
